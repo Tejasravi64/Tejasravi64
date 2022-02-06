@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Tejasravi64
-- 👀 I’m interested in social Engineering and
-Exploring in Linux and I am found of coding😍🤍
-- 🌱 I’m currently learning Engineering
-- 💞️ I’m looking to collaborate on metasploit projects
+- 👋 Hi, I’m Tejasravi
+Exploring in Linux
+- 🌱 I’m pursing learning Engineering
+- 💞️ I’m  a web developer
 - 📫 reach me by messaging 
 
 <!---
